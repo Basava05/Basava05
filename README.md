@@ -1,8 +1,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Basava05&icon=0&color=3)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-Student at Ramaiah Institute Of Technology;<br>
+# 💫 HI, I am Basava S
+Student at Ramaiah Institute Of Technology<br>
 
 
 ## 🌐 Socials:
