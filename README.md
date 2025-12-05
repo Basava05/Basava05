@@ -2,8 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=Basava05&icon=0&color=3)](https://visitcount.itsvg.in)
 
 # </> Hi, I'm Basava S
-Student at Ramaiah Institute Of Technology<br>
---Bengaluru
+Student at Ramaiah Institute Of Technology ಬೆಂಗಳೂರು ಕರ್ನಾಟಕ<br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
